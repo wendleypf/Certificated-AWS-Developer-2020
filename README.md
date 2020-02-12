@@ -1,1 +1,1 @@
-# Certificated-AWS-Developer-2020
+# Certificated AWS Developer 2020
